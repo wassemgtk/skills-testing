@@ -2,8 +2,6 @@
 
 > **200 production-grade agent skills** across three enterprise verticals: CPG & Retail E-Commerce, Healthcare, and Financial Services & Banking.
 
-Built following the [Anthropic Agent Skills Specification](https://github.com/anthropics/skills), each skill is a self-contained folder with a `SKILL.md` file containing YAML frontmatter and comprehensive markdown instructions. Skills provide specialized analytical frameworks, industry-standard methodologies, regulatory compliance guidance, and structured output specifications.
-
 ---
 
 ## Catalog Summary
